@@ -1,0 +1,100 @@
+﻿.myTable {
+    margin: 0;
+    padding: 0;
+    width: 60%;
+    box-shadow: 10px 10px 5px #888888;
+    border: 1px solid #3f03af;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 5px;
+}
+
+    .myTable table {
+        border-collapse: collapse;
+        border-spacing: 0;
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    .myTable tr:last-child td:last-child {
+        -moz-border-radius-bottomright: 4px;
+        -webkit-border-bottom-right-radius: 4px;
+        border-bottom-right-radius: 4px;
+    }
+
+    .myTable table tr:first-child td:first-child {
+        -moz-border-radius-topleft: 4px;
+        -webkit-border-top-left-radius: 4px;
+        border-top-left-radius: 4px;
+    }
+
+    .myTable table tr:first-child td:last-child {
+        -moz-border-radius-topright: 4px;
+        -webkit-border-top-right-radius: 4px;
+        border-top-right-radius: 4px;
+    }
+
+    .myTable tr:last-child td:first-child {
+        -moz-border-radius-bottomleft: 4px;
+        -webkit-border-bottom-left-radius: 4px;
+        border-bottom-left-radius: 4px;
+    }
+
+    .myTable tr:hover td {
+        background-color: #F2F5A9;
+    }
+
+    .myTable td {
+        vertical-align: middle;
+        background-color: #a9e2f3;
+        border: 1px solid #3f03af;
+        border-width: 0 1px 1px 0;
+        text-align: left;
+        padding: 8px;
+        font-size: 12px;
+        font-family: Arial;
+        font-weight: bold;
+        color: #000000;
+    }
+
+    .myTable tr:last-child td {
+        border-width: 0 1px 0 0;
+    }
+
+    .myTable tr td:last-child {
+        border-width: 0 0 1px 0;
+    }
+
+    .myTable tr:last-child td:last-child {
+        border-width: 0 0 0 0;
+    }
+
+    .myTable tr:first-child td {
+        background-color: #ff0000;
+        border: 0 solid #3f03af;
+        text-align: center;
+        border-width: 0 0 1px 1px;
+        font-size: 14px;
+        font-family: Arial;
+        font-weight: bold;
+        color: #ffffff;
+    }
+
+    .myTable tr:first-child:hover td {
+        background-color: #ff0000;
+    }
+
+    .myTable tr:first-child td:first-child {
+        border-width: 0 0 1px 0;
+    }
+
+    .myTable tr:first-child td:last-child {
+        border-width: 0 0 1px 1px;
+    }
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}

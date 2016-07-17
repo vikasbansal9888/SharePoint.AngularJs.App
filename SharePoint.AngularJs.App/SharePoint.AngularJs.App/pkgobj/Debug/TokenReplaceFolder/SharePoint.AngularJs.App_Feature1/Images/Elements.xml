@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Images">
+    <File Path="Images\AppIcon.png" Url="Images/AppIcon.png" ReplaceContent="TRUE" />
+    <File Path="Images\shiva-cartoon.png" Url="Images/shiva-cartoon.png" ReplaceContent="TRUE" />
+    <File Path="Images\Edit.png" Url="Images/Edit.png" ReplaceContent="TRUE" />
+    <File Path="Images\deleteNew.png" Url="Images/deleteNew.png" ReplaceContent="TRUE" />
+    <File Path="Images\add_click.png" Url="Images/add_click.png" ReplaceContent="TRUE" />
+    <File Path="Images\add.png" Url="Images/add.png" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

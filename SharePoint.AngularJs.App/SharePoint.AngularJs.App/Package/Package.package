@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="d94bbe82-cc72-421e-82bf-3b9bdf087a55" 
+        solutionId="d94bbe82-cc72-421e-82bf-3b9bdf087a55" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SharePoint.AngularJs.App"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="8532d2ff-3fa2-4c0f-b13e-4aca22985ad5" />
+  </features>
+</package>

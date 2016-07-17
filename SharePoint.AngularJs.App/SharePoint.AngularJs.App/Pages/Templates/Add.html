@@ -1,0 +1,38 @@
+﻿<h2>Add New User</h2>
+<hr>
+
+<table>
+    <tr>
+        <td>First Name</td>
+        <td><input type="text" data-ng-model="user.firstName" /></td>
+    </tr>
+    <tr>
+        <td>Last Name</td>
+        <td><input type="text" data-ng-model="user.lastName" /></td>
+    </tr>
+    <tr>
+        <td>Age</td>
+        <td><input type="text" data-ng-model="user.age" /></td>
+    </tr>
+    <tr>
+        <td>Gender</td>
+        <td>
+            <input name="gender" type="radio" value="Male" data-ng-model="user.gender" />Male    &nbsp;
+            <input name="gender" type="radio" value="Female" data-ng-model="user.gender" />Female
+        </td>
+    </tr>
+    <tr>
+        <td>Qualification</td>
+        <td>
+            <ul>
+                <li data-ng-repeat="course in courses">
+                    <input type="checkbox" data-ng-model="course.selected" value={{course.name}} /> {{course.name}}
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><input title="Save" type="button" value="Save" data-ng-click="addUser(user)"></td>
+        <td><input title="Cancel" type="reset" data-ng-click="resetForm();" value="Cancel" /></td>
+    </tr>
+</table>

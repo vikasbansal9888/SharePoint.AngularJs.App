@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="SharePoint App Feature" Id="8532d2ff-3fa2-4c0f-b13e-4aca22985ad5" Scope="Web" Title="SharePoint.AngularJs.App Feature1" Version="1.0.0.0">
+  <ElementManifests>
+    <ElementManifest Location="Pages\Elements.xml" />
+    <ElementFile Location="Pages\Default.aspx" />
+    <ElementFile Location="Pages\Templates\GetAll.html" />
+    <ElementFile Location="Pages\Templates\Add.html" />
+    <ElementFile Location="Pages\Templates\Edit.html" />
+    <ElementManifest Location="Scripts\Elements.xml" />
+    <ElementFile Location="Scripts\App.js" />
+    <ElementFile Location="Scripts\jquery-1.9.1.min.map" />
+    <ElementFile Location="Scripts\jquery-1.9.1.min.js" />
+    <ElementFile Location="Scripts\jquery-1.9.1.js" />
+    <ElementFile Location="Scripts\jquery-1.9.1.intellisense.js" />
+    <ElementFile Location="Scripts\Controllers\CRUDController.js" />
+    <ElementFile Location="Scripts\Services\SharePointCRUDService.js" />
+    <ElementFile Location="Scripts\bootstrap.min.js" />
+    <ElementFile Location="Scripts\bootstrap.js" />
+    <ElementFile Location="Scripts\Controllers\READController.js" />
+    <ElementFile Location="Scripts\Services\SharePointBASEService.js" />
+    <ElementFile Location="Scripts\Controllers\USERController.js" />
+    <ElementFile Location="Scripts\Controllers\ADDController.js" />
+    <ElementFile Location="Scripts\angular.min.js.map" />
+    <ElementFile Location="Scripts\angular.min.js" />
+    <ElementFile Location="Scripts\angular.js" />
+    <ElementFile Location="Scripts\angular-mocks.js" />
+    <ElementFile Location="Scripts\angular-route.min.js.map" />
+    <ElementFile Location="Scripts\angular-route.min.js" />
+    <ElementFile Location="Scripts\angular-route.js" />
+    <ElementFile Location="Scripts\Utilities\Constants.js" />
+    <ElementFile Location="Scripts\Controllers\EDITController.js" />
+    <ElementManifest Location="Content\Elements.xml" />
+    <ElementFile Location="Content\App.css" />
+    <ElementFile Location="Content\bootstrap.min.css.map" />
+    <ElementFile Location="Content\bootstrap.min.css" />
+    <ElementFile Location="Content\bootstrap.css.map" />
+    <ElementFile Location="Content\bootstrap.css" />
+    <ElementFile Location="Content\bootstrap-theme.min.css.map" />
+    <ElementFile Location="Content\bootstrap-theme.min.css" />
+    <ElementFile Location="Content\bootstrap-theme.css.map" />
+    <ElementFile Location="Content\bootstrap-theme.css" />
+    <ElementFile Location="Content\tableStyle.css" />
+    <ElementManifest Location="Images\Elements.xml" />
+    <ElementFile Location="Images\AppIcon.png" />
+    <ElementFile Location="Images\shiva-cartoon.png" />
+    <ElementFile Location="Images\Edit.png" />
+    <ElementFile Location="Images\deleteNew.png" />
+    <ElementFile Location="Images\add_click.png" />
+    <ElementFile Location="Images\add.png" />
+    <ElementManifest Location="Elements.xml" />
+    <ElementFile Location="HelpGuide.txt" />
+    <ElementFile Location="fonts\glyphicons-halflings-regular.woff2" />
+    <ElementFile Location="fonts\glyphicons-halflings-regular.woff" />
+    <ElementFile Location="fonts\glyphicons-halflings-regular.ttf" />
+    <ElementFile Location="fonts\glyphicons-halflings-regular.svg" />
+    <ElementFile Location="fonts\glyphicons-halflings-regular.eot" />
+  </ElementManifests>
+  <UpgradeActions>
+    <VersionRange>
+      <ApplyElementManifests>
+        <ElementManifest Location="Pages\Elements.xml" />
+        <ElementManifest Location="Scripts\Elements.xml" />
+        <ElementManifest Location="Content\Elements.xml" />
+        <ElementManifest Location="Images\Elements.xml" />
+        <ElementManifest Location="Elements.xml" />
+      </ApplyElementManifests>
+    </VersionRange>
+  </UpgradeActions>
+</Feature>

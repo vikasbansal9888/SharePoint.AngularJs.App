@@ -1,0 +1,1 @@
+C:\GitMy\SharePoint.AngularJs.App\SharePoint.AngularJs.App\bin\Debug\app.publish\1.0.0.0\SharePoint.AngularJs.App.app

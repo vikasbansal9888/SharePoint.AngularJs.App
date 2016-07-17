@@ -1,0 +1,11 @@
+﻿1. Install the core AngularJS files
+
+Install-Package AngularJS.Core
+
+Install-Package AngularJS.Route
+
+http://www.johnpapa.net/modular-angularjs-nuget-packages/
+
+2. Install Bootstrap JS files
+
+Install-Package Bootstrap

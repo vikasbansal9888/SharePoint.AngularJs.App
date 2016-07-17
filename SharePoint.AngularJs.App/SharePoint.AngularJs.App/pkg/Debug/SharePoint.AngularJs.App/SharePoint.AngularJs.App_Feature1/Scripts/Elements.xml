@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Scripts">
+    <File Path="Scripts\App.js" Url="Scripts/App.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.9.1.min.map" Url="Scripts/jquery-1.9.1.min.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.9.1.min.js" Url="Scripts/jquery-1.9.1.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.9.1.js" Url="Scripts/jquery-1.9.1.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.9.1.intellisense.js" Url="Scripts/jquery-1.9.1.intellisense.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Controllers\CRUDController.js" Url="Scripts/Controllers/CRUDController.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Services\SharePointCRUDService.js" Url="Scripts/Services/SharePointCRUDService.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\bootstrap.min.js" Url="Scripts/bootstrap.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\bootstrap.js" Url="Scripts/bootstrap.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Controllers\READController.js" Url="Scripts/Controllers/READController.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Services\SharePointBASEService.js" Url="Scripts/Services/SharePointBASEService.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Controllers\USERController.js" Url="Scripts/Controllers/USERController.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Controllers\ADDController.js" Url="Scripts/Controllers/ADDController.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\angular.min.js.map" Url="Scripts/angular.min.js.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\angular.min.js" Url="Scripts/angular.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\angular.js" Url="Scripts/angular.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\angular-mocks.js" Url="Scripts/angular-mocks.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\angular-route.min.js.map" Url="Scripts/angular-route.min.js.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\angular-route.min.js" Url="Scripts/angular-route.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\angular-route.js" Url="Scripts/angular-route.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Utilities\Constants.js" Url="Scripts/Utilities/Constants.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Controllers\EDITController.js" Url="Scripts/Controllers/EDITController.js" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

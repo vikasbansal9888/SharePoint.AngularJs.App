@@ -1,0 +1,10 @@
+C:\SharePointProjects\SharePoint.AngularJs.App\SharePoint.AngularJs.App\bin\Debug\SharePoint.AngularJs.App.pdb
+C:\SharePointProjects\SharePoint.AngularJs.App\SharePoint.AngularJs.App\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\SharePointProjects\SharePoint.AngularJs.App\SharePoint.AngularJs.App\obj\Debug\SharePoint.AngularJs.App.dll
+C:\SharePointProjects\SharePoint.AngularJs.App\SharePoint.AngularJs.App\obj\Debug\SharePoint.AngularJs.App.pdb
+C:\SharePointProjects\SharePoint.AngularJs.App\SharePoint.AngularJs.App\obj\Debug\SharePoint.AngularJs.App.csprojResolveAssemblyReference.cache
+C:\GitMy\SharePoint.AngularJs.App\SharePoint.AngularJs.App\bin\Debug\SharePoint.AngularJs.App.pdb
+C:\GitMy\SharePoint.AngularJs.App\SharePoint.AngularJs.App\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\GitMy\SharePoint.AngularJs.App\SharePoint.AngularJs.App\obj\Debug\SharePoint.AngularJs.App.csprojResolveAssemblyReference.cache
+C:\GitMy\SharePoint.AngularJs.App\SharePoint.AngularJs.App\obj\Debug\SharePoint.AngularJs.App.dll
+C:\GitMy\SharePoint.AngularJs.App\SharePoint.AngularJs.App\obj\Debug\SharePoint.AngularJs.App.pdb
